@@ -231,7 +231,7 @@ Windows
 venv\Scripts\activate
 
 5. Install Required Libraries
-pip install numpy pandas matplotlib
+pip install -r requirements.txt
 
 
 
