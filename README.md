@@ -378,3 +378,13 @@ Veeresh N Achar
 Electronics & Communication Engineering
 Areas of Interest
 Embedded Systems • Robotics & Automation • Industrial Automation • Python • Predictive Maintenance
+
+
+## 🚀 Project Status
+
+**Version:** 1.0.0  
+**Status:** Completed & Tested ✅  
+**Platform:** Windows / Python  
+**Type:** Software-based Predictive Maintenance Simulation
+
+The simulator is fully functional and available on GitHub with source code, documentation, dependency configuration, and dashboard visualization.
