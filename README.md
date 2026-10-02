@@ -323,6 +323,11 @@ Possible sensors include:
 - RPM sensor
 
 
+## 📊 Project Dashboard
+
+![Predictive Maintenance Dashboard](dashboard.png)
+
+
 🌐 Real-Time Monitoring
 Add live sensor streaming and continuous machine monitoring.
 
